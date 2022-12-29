@@ -1,4 +1,4 @@
-456049799742384,67890;
-abcdef,12345;
-ghigk,12345;
-1599647172,hi babe do you miss me;
+[id] = 456049799742384, [date]= 67890
+[id] = abcdef, [date]= 12345
+[id] = ghigk, [date]= 12345
+[id] = 1599647172, [date]= hi babe do you miss me
