@@ -1,0 +1,15 @@
+界面:
+{
+    Compatibility:
+    {
+        文字框:
+        {
+            注释:"This is the reminder of the resolution",
+            名称:"Resolution",
+            显示内容:"Resolution : 640 x 480 DPI 120",
+            文字大小:18,
+            高度:0,
+            宽度:0
+        },
+    },
+}
